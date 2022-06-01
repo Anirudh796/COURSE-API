@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Anirudh
+Build-Jdk: 17.0.2
+Implementation-Title: Course Api
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.courseapi.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/course-api
+Created-By: Maven Integration for Eclipse
+
